@@ -2,7 +2,6 @@
     <img alt="Marvel" title="#Marvel" src="./src/assets/marvel.png" width="15%" />
 </h1>
 
-<h1 align="center">Marvel 👋</h1>
 <p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
 </p>
